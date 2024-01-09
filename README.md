@@ -1,9 +1,9 @@
 # DCGAN for Furniture Dataset
-* Overview:
+## Overview:
 
 This script implements a Deep Convolutional Generative Adversarial Network (DCGAN) using PyTorch. The DCGAN is trained on a furniture dataset to generate new images that resemble the input dataset.
 
-* Sections:
+## Sections:
 ## 1. Initialization:
 
 Sets the random seed for reproducibility.
