@@ -35,10 +35,13 @@ Alternates between updating the Discriminator and Generator.
 Uses binary cross-entropy loss for adversarial training.
 Saves generated images at intervals during training.
 Displays and saves losses for both the Generator and Discriminator.
+![](https://imgur.com/1D31v6M.png)
 
 ## 6. Visualization:
 
 Visualizes the training images and the generated images at the end of training.
+![](https://i.imgur.com/v9pz8c4.png)
+![](https://imgur.com/u9VFdxH.png)
 
 ## 7. Additional Notes:
 
