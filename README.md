@@ -40,7 +40,7 @@ Displays and saves losses for both the Generator and Discriminator.
 ## 6. Visualization:
 
 Visualizes the training images and the generated images at the end of training.
-![](https://i.imgur.com/v9pz8c4.png)
+![](https://imgur.com/h8YROqG.png)
 ![](https://imgur.com/u9VFdxH.png)
 
 ## 7. Additional Notes:
