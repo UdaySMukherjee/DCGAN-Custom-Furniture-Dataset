@@ -1,17 +1,19 @@
 # DCGAN for Furniture Dataset
-Overview:
+##Overview:
+
 This script implements a Deep Convolutional Generative Adversarial Network (DCGAN) using PyTorch. The DCGAN is trained on a furniture dataset to generate new images that resemble the input dataset.
 
 Sections:
-Initialization:
+## 1. Initialization:
 
 Sets the random seed for reproducibility.
 Defines the root directory for the furniture dataset, number of workers, batch size, image size, and other hyperparameters.
 Mounts Google Drive (if running in Google Colab) to access the dataset.
-Dataset Loading:
+## 2. Dataset Loading:
 
 Uses torchvision to create a custom dataset using the ImageFolder class, applying various transformations to the images (resizing, cropping, normalization).
-Generator and Discriminator Model Definition:
+
+## 3. Generator and Discriminator Model Definition:
 
 Defines the Generator and Discriminator classes.
 Generator:
